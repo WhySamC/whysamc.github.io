@@ -3,8 +3,7 @@ layout: post
 title: Cisco CCNA CyberOps Scholarship - A Review
 published: true
 ---
-I obtained the CCNA CyberOps certification in Jan 2018. Here’s what I think about it.
-
+I obtained the CCNA CyberOps certification in Jan 2018. Here’s what I think about it.  
 > What’s better than getting professional certifications? – Getting it for free!
 
 ## What’s CyberOps?
@@ -20,7 +19,7 @@ The next stage was a skill assessment with around 65 questions on Windows, Linux
 ## The Lessons
 The course syllabus covered a wide scope of networking & security knowledge and I would gladly recommend it to beginners. From the lessons, I got a better understanding of networking & security concepts, attack methods, incident response, how the SOC works, SIEMs and how to correlate logs.
 
-Training Content was delivered on Lumicybersecurity’s training portal through:
+Training Content was delivered on Lumicybersecurity’s training portal through:  
 - Self-paced video lessons
 - Labs
 - Live Web sessions with an Instructor
@@ -33,22 +32,18 @@ Sadly I did not attend the live web sessions as they clashed with my work schedu
 ## Labs
 
 Ah, the part I’m most impressed by — The Labs
-
 ![Lab Time!](/img/CyberOps_Labs.jpg)
 
 ### The Good
-- **All In Browser** – In my previous learnings, setting up the VM & labs to follow along with the book usually frustrated me the most. Time meant for working through the intended hands on session, was instead spent on troubleshooting and googling for solutions. So for Cisco to have everything set up in a browser was a big win! You just had to get in queue while the lab is being prepared.
-
+- **All In Browser** – In my previous learnings, setting up the VM & labs to follow along with the book usually frustrated me the most. Time meant for working through the intended hands on session, was instead spent on troubleshooting and googling for solutions. So for Cisco to have everything set up in a browser was a big win! You just had to get in queue while the lab is being prepared.  
 - **Good VMs** – We had Windows, Kali Linux, Security Onion, Cisco Routers & Firewalls. Good choice of commonly used distros in the real world.
 Detailed Explanations – the step by step instructions included was extremely helpful because it had detailed explanations for each step that you’re doing.
 The lab activities were brilliant! We played around with Wireshark, the SIEM in Security Onion, and I’d always end up experimenting around longer than my estimated time. Thumbs up to Cisco for the labs!
 
 ### The Negatives
 
-- **Input Lag & Bandwidth** - Because it’s all in the browser and hosted in a server far away from Asia, the latency delay is definitely felt (Time between u pressing a key, and it appearing on screen). And if you’re picky about that, that can get annoying quick.
-
- I also had a few time outs when the server was overloaded, and had to join a waiting queue to reload the lab.
-
+- **Input Lag & Bandwidth** - Because it’s all in the browser and hosted in a server far away from Asia, the latency delay is definitely felt (Time between u pressing a key, and it appearing on screen). And if you’re picky about that, that can get annoying quick.  
+ I also had a few time outs when the server was overloaded, and had to join a waiting queue to reload the lab.  
 - **Display Resolution** – Another hassle was trying to display the various VMs side by side. Things can get real cramped with lots of confused alt-tabbing and clicking if you’re on a smaller resolution(like 768p). Fortunately for me, I'm on a 1440p monitor, so it wasn’t that bad.
 
 ## The Exam
