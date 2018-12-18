@@ -1,10 +1,11 @@
 ---
-title: Cisco CCNA CyberOps Scholarship - A Review
 layout: post
+title: Cisco CCNA CyberOps Scholarship - A Review
+published: true
 ---
-> What’s better than getting professional certifications? – Getting it for free!
-
 I obtained the CCNA CyberOps certification in Jan 2018. Here’s what I think about it.
+
+> What’s better than getting professional certifications? – Getting it for free!
 
 ## What’s CyberOps?
 Cisco introduced a $10 million scholarship late 2016 to solve the cybersecurity talent shortage – specially Tier 1 security analysts performing grunt work in a SOC (Security Operations Centre). This Cyber Operations Certification [Cyber Operations Certification][1] was tailored for SOC work and the scholarship was Cisco’s method of beta testing the course (and putting Cisco products in our heads). The course is made up of 2 modules & Exams – Cybersecurity Fundamentals (SECFND) & Cybersecurity Operations (SECOPS)
@@ -29,29 +30,26 @@ I found it easy to grasp the lessons delivered in the videos. The animated illus
 
 Sadly I did not attend the live web sessions as they clashed with my work schedule, but the notes that came from it were beneficial as it gave emphasis on what you needed to focus on to pass the exam.
 
-Labs
-------
+## Labs
 
 Ah, the part I’m most impressed by — The Labs
 
-![Lab Time!][Labss]
+![Lab Time!](/img/CyberOps_Labs.jpg)
 
 ### The Good
-**All In Browser** – In my previous learnings, setting up the VM & labs to follow along with the book usually frustrated me the most. Time meant for working through the intended hands on session, was instead spent on troubleshooting and googling for solutions. So for Cisco to have everything set up in a browser was a big win! You just had to get in queue while the lab is being prepared.
+- **All In Browser** – In my previous learnings, setting up the VM & labs to follow along with the book usually frustrated me the most. Time meant for working through the intended hands on session, was instead spent on troubleshooting and googling for solutions. So for Cisco to have everything set up in a browser was a big win! You just had to get in queue while the lab is being prepared.
 
-**Good VMs** – We had Windows, Kali Linux, Security Onion, Cisco Routers & Firewalls. Good choice of commonly used distros in the real world.
+- **Good VMs** – We had Windows, Kali Linux, Security Onion, Cisco Routers & Firewalls. Good choice of commonly used distros in the real world.
 Detailed Explanations – the step by step instructions included was extremely helpful because it had detailed explanations for each step that you’re doing.
 The lab activities were brilliant! We played around with Wireshark, the SIEM in Security Onion, and I’d always end up experimenting around longer than my estimated time. Thumbs up to Cisco for the labs!
 
 ### The Negatives
 
-Okay, it’s not all rosy. There is a price to pay for Lab-in-Browser convenience.
+- **Input Lag & Bandwidth** - Because it’s all in the browser and hosted in a server far away from Asia, the latency delay is definitely felt (Time between u pressing a key, and it appearing on screen). And if you’re picky about that, that can get annoying quick.
 
-**Input Lag & Bandwidth** - Because it’s all in the browser and hosted in a server far away from Asia, the latency delay is definitely felt (Time between u pressing a key, and it appearing on screen). And if you’re picky about that, that can get annoying quick.
+ I also had a few time outs when the server was overloaded, and had to join a waiting queue to reload the lab.
 
-I also had a few time outs when the server was overloaded, and had to join a waiting queue to reload the lab.
-
-**Display Resolution** – Another hassle was trying to display the various VMs side by side. Things can get real cramped with lots of confused alt-tabbing and clicking if you’re on a smaller resolution(like 768p). Fortunately for me, I'm on a 1440p monitor, so it wasn’t that bad.
+- **Display Resolution** – Another hassle was trying to display the various VMs side by side. Things can get real cramped with lots of confused alt-tabbing and clicking if you’re on a smaller resolution(like 768p). Fortunately for me, I'm on a 1440p monitor, so it wasn’t that bad.
 
 ## The Exam
 Booking the exam was easy as it was administered through Pearson’s portal.
@@ -71,9 +69,7 @@ As for time required, The course materials were made available on the portal for
 
 Overall, I’ve gained a deeper understanding of how a SOC works along with incident analysis experience using SIEMs from the hands on labs. The labs prepared by LumiCybersecurity was the best thing in the course. The frustrations I had stem mainly from the exam questions phrasing as well as topic sequence. If I had to pay for it (either personally or through training budgets), I would not have taken it as being an IR is not my thing. But I am thankful for the opportunity given, and it was time well spent indeed!
 
-
+![OldSchool Paper Certificates, Yay!](/img/CyberOps_Cert.jpg)
 
 [1]: https://learningnetwork.cisco.com/community/certifications/ccna-cyber-ops
 [2]: https://mkto.cisco.com/security-scholarship
-
-[Labs]: /assets/CyberOps_Lab.jpg "Lab Time!"
