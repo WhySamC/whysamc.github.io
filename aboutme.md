@@ -15,7 +15,7 @@ I'm documenting my InfoSec journey and other loves here (Eg. food in Malaysia, M
 
 ### a short history
 
-As a young boy, I was known as the computer guy among my friends, yet all I wanted was to be a guitar hero. Coming as a surprise to most, I spent the next 7 years dabbling in the arts of accounting & audit, and qualified as a Chartered Accountant.
+As a young boy, I was known as the computer guy among my friends, yet all I wanted was to be a guitar hero. Coming as a surprise to most, I spent the next 7 years dabbling in the arts of accounting & audit, and qualified as a [Chartered Accountant](https://www.accaglobal.com/an/en/member/find-an-accountant/directory-of-member/results.html?isocountry=US&FirstName=&Surname=chin+wai+sam&Location=&inputcountrysuspended=&orgid=ACCA&orby=FNA&ipp=5&pn=1&hid=&requestcount=1).
 
 _In 2015_, I took the [CS50x course](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x), which sparked a long lost computery excitement. Fueled foward by the fun I was having, I decided to make it my career. Firstly by tackling the Security+ and [CISA](http://www.isaca.org/CERTIFICATION/CISA-CERTIFIED-INFORMATION-SYSTEMS-AUDITOR/Pages/default.aspx) certification, and there began my journey to become an Infosec Professional. 
 
