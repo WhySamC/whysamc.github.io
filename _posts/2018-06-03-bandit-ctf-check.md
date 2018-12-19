@@ -17,8 +17,8 @@ For most challenges, learning how to Google and learning to read man pages will 
 
 As for me, there's 2 Linux books sitting on my shelf, which I could never read past the first few chapters. Because with no practice exercises to go along, they can get pretty dry, and sadly half the time they end up being bedtime reading material (not the authors' fault, all mine :D)
 
-![TLCL](/assets/Bandit_tlcl.png "The Linux Command Line*")
-![LinuxSuperuser](/assets/Bandit_howlinuxworks.png "How Linux Works")
+![TLCL](/img/Bandit_tlcl.png "The Linux Command Line*")
+![LinuxSuperuser](/img/Bandit_howlinuxworks.png "How Linux Works")
 
 Now, with Bandit added in the mix, learning Linux with the books got exciting!
 
@@ -29,12 +29,12 @@ After completing a level, I'd check out write-ups posted online. Different peopl
 ### the end
 I reached the final level (25) after a month (_Cough_, work was really busy in May), and boy was it a satisfying feeling! 
 
-![Bandit Finale](/assets/Bandit_Ending.png "*Spoiler - Bandit Finale*")
+![Bandit Finale](/img/Bandit_Ending.png "*Spoiler - Bandit Finale*")
 
 This text from the final level brought a little sadness, just like watching the last episode of a good TV series that got cancelled abruptly.
 
 I made notes in Onenote as I progressed, so here’s a mind map I compiled in Mindjet with all the commands used in this CTF.
-![Bandit Mindmap](/assets/Bandit_MindMap.png "*Spoiler - Bandit Mindmap")
+![Bandit Mindmap](/img/Bandit_MindMap.png "*Spoiler - Bandit Mindmap")
 
 ### conclusion and next steps
 As for me, my Linux journey continues on, as there’s still 3 quarters of both books left to finish. RHCSA, I'm looking at you.
